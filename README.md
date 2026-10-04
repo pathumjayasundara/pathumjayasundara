@@ -1,4 +1,3 @@
-md
 <!-- ═══════════════════════════════════════════════════════════════════════════════
      ██████╗  █████╗ ████████╗██╗  ██╗██╗   ██╗███╗   ███╗
      ██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║   ██║████╗ ████║
@@ -13,12 +12,12 @@ md
 
 <!-- ═══════════════════════ ANIMATED HERO HEADER ═══════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Pathum%20Jayasundara&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=⚡%20IT%20Project%20Manager%20%E2%80%A2%20Agile%20%26%20Scrum%20%E2%80%A2%20AI-Powered%20PM%20⚡&descAlignY=55&descSize=20&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Pathum%20Jayasundara&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Project%20Manager%20%E2%80%A2%20Agile%20%26%20Scrum%20%E2%80%A2%20AI-Powered%20PM&descAlignY=55&descSize=18"/>
 
 <!-- ═══════════════════════ ANIMATED TYPING BANNER ═══════════════════════ -->
 
 <a href="https://github.com/pathumjayasundara">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=%F0%9F%8E%93+Computer+Science+Undergraduate+%7C+3rd+Year;%F0%9F%9A%80+Aspiring+IT+Project+Manager;%F0%9F%94%84+Agile+%26+Scrum+Enthusiast;%F0%9F%A4%96+AI-Powered+Project+Management;%F0%9F%92%A1+Digital+Product+Leader+in+the+Making" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Computer+Science+Undergraduate+%F0%9F%8E%93;Aspiring+IT+Project+Manager+%F0%9F%9A%80;Agile+%26+Scrum+Enthusiast+%F0%9F%94%84;AI-Powered+Project+Management+%F0%9F%A4%96;Digital+Product+Leader+in+the+Making+%F0%9F%92%A1" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -39,13 +38,13 @@ md
   <a href="https://www.linkedin.com/in/pathum-jayasundara-66a636345" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
   </a>
-  <a href="https://pathumjayasundara.github.io/Port/" target="_blank">
+  <a href="https://pathum04.github.io/pathumjayasundara/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"/>
   </a>
   <a href="https://github.com/pathumjayasundara" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
   </a>
-  <a href="mailto:pathumjayasundara@gmail.com">
+  <a href="mailto:pathumjayasundara04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
   </a>
 </p>
@@ -322,11 +321,6 @@ Additional Highlights:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 😂 Random Dev Joke
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder"/>
-🎵 Spotify Now Playing
-https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=00C2FF
-
-🐕 Dev Activity — Coding Time
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pathumjayasundara&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF"/>
 ✨ Random Dev Meme
 <img src="https://random-memer.herokuapp.com" width="400"/></div>
 <!-- ═══════════════════════════════════════════════════════════════════════════════ CONNECT CTA ═══════════════════════════════════════════════════════════════════════════════ --><div align="center">
@@ -337,22 +331,22 @@ I'm actively looking for internships and project opportunities in:
 If you're working on exciting projects at the intersection of tech, product, and AI — I'd love to connect!
 
 
-<a href="https://www.linkedin.com/in/pathum-jayasundara-66a636345"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="45"/> </a> <a href="https://pathumjayasundara.github.io/Port/"> <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" height="45"/> </a> <a href="mailto:pathumjayasundara@gmail.com"> <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="45"/> </a>
+<a href="https://www.linkedin.com/in/pathum-jayasundara-66a636345"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="45"/> </a> <a href="https://pathum04.github.io/pathumjayasundara/"> <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" height="45"/> </a> <a href="mailto:pathumjayasundara04@gmail.com"> <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="45"/> </a>
 
 
 
 ⭐ "Proud to Learn. Proud to Lead. Proud to Serve." 🦁
 
-<!-- Animated Footer --><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=70"/></div><!-- ═══════════════════════════════════════════════════════════════════════════════ Made with ❤️ by Pathum Jayasundara ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- Animated Footer --><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65"/></div><!-- ═══════════════════════════════════════════════════════════════════════════════ Made with ❤️ by Pathum Jayasundara ═══════════════════════════════════════════════════════════════════════════════ -->
 text
 
 ---
 
-## ⚙️ EXTRA SETUP — Snake Animation එක වැඩකරන්න
+### 📌 අලුතෙන් එකතු කරන්න ඕන දේ (Snake Animation)
 
-මේ README එකේ **🐍 Snake animation** එක තියෙනවා. ඒක වැඩකරන්න මේ workflow file එක ඕන:
+ඔයාගේ Snake animation එක වැඩකරන්න මේ file එක ඔයාගේ repo එකේ හදන්න ඕන:
 
-**Create this file:** `.github/workflows/snake.yml`
+**File path:** `.github/workflows/snake.yml`
 
 ```yaml
 name: Generate Snake Animation
@@ -386,4 +380,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }
