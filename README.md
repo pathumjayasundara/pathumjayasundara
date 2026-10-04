@@ -1,33 +1,43 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     ██████╗  █████╗ ████████╗██╗  ██╗██╗   ██╗███╗   ███╗
+     ██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║   ██║████╗ ████║
+     ██████╔╝███████║   ██║   ███████║██║   ██║██╔████╔██║
+     ██╔═══╝ ██╔══██║   ██║   ██╔══██║██║   ██║██║╚██╔╝██║
+     ██║     ██║  ██║   ██║   ██║  ██║╚██████╔╝██║ ╚═╝ ██║
+     ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝
+                    J A Y A S U N D A R A
+     ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ═══════════════════════ ANIMATED HERO HEADER ═══════════════════════ -->
+<!-- ═══════════════════════ ANIMATED HERO HEADER (PURE BLACK & NEON CYAN) ═══════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Pathum%20Jayasundara&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Project%20Manager%20%E2%80%A2%20Agile%20%26%20Scrum%20%E2%80%A2%20AI-Powered%20PM&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FFFF,100:000000&height=250&section=header&text=Pathum%20Jayasundara&fontSize=70&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=IT%20Project%20Manager%20%E2%80%A2%20Agile%20%26%20Scrum%20%E2%80%A2%20AI-Powered%20PM&descAlignY=55&descSize=18&descColor=FFFFFF"/>
 
-<!-- ═══════════════════════ ANIMATED TYPING BANNER ═══════════════════════ -->
+<!-- ═══════════════════════ ANIMATED TYPING BANNER (NEON CYAN) ═══════════════════════ -->
 
 <a href="https://github.com/pathumjayasundara">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Computer+Science+Undergraduate+%F0%9F%8E%93;Aspiring+IT+Project+Manager+%F0%9F%9A%80;Agile+%26+Scrum+Enthusiast+%F0%9F%94%84;AI-Powered+Project+Management+%F0%9F%A4%96;Digital+Product+Leader+in+the+Making+%F0%9F%92%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%F0%9F%8E%93+Computer+Science+Undergraduate+%7C+3rd+Year;%F0%9F%9A%80+Aspiring+IT+Project+Manager;%F0%9F%94%84+Agile+%26+Scrum+Enthusiast;%F0%9F%A4%96+AI-Powered+Project+Management;%F0%9F%92%A1+Digital+Product+Leader+in+the+Making" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<!-- ═══════════════════════ LIVE BADGE MATRIX ═══════════════════════ -->
+<!-- ═══════════════════════ LIVE BADGE MATRIX (DARK THEME) ═══════════════════════ -->
 
-<img src="https://komarev.com/ghpvc/?username=pathumjayasundara&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/pathumjayasundara?label=FOLLOWERS&style=for-the-badge&color=00C2FF&labelColor=0D1117&logo=github"/> <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-00E676?style=for-the-badge&labelColor=0D1117"/> <img src="https://img.shields.io/badge/SRI%20LANKA-🇱🇰-FF6F00?style=for-the-badge&labelColor=0D1117"/> <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-8E75B2?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=pathumjayasundara&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/pathumjayasundara?label=FOLLOWERS&style=for-the-badge&color=00FFFF&labelColor=000000&logo=github"/> <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-00FF00?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/SRI%20LANKA-🇱🇰-FF00FF?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-8E75B2?style=for-the-badge&labelColor=000000"/>
 
 <br/><br/>
 
-<!-- ═══════════════════════ SOCIAL CONNECT ═══════════════════════ -->
+<!-- ═══════════════════════ SOCIAL CONNECT (DARK THEME) ═══════════════════════ -->
 
 <a href="https://www.linkedin.com/in/pathum-jayasundara-66a636345" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
 </a> <a href="https://pathum04.github.io/pathumjayasundara/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000"/>
 </a> <a href="https://github.com/pathumjayasundara" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
 </a> <a href="mailto:pathumjayasundara04@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
 </a>
 
 <br/><br/>
@@ -115,23 +125,23 @@ const pathum: Developer = {
 
 ### 📊 Project Management Stack
 <p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=000000"/>
 </p>
 
 ### 🤖 AI / ML / GenAI Stack
 <p>
-  <img src="https://img.shields.io/badge/YOLO%20v8-111F68?style=for-the-badge&logo=yolo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-00C2FF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO%20v8-111F68?style=for-the-badge&logo=yolo&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-00FFFF?style=for-the-badge&logo=openai&logoColor=black&labelColor=000000"/>
 </p>
 
 </div>
@@ -139,7 +149,7 @@ const pathum: Developer = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════
-                                    GITHUB ANALYTICS
+                                    GITHUB ANALYTICS (PURE BLACK + NEON)
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -147,34 +157,69 @@ const pathum: Developer = {
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="32"/>  GitHub Analytics Dashboard
 
 <p>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=pathumjayasundara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github"/>
-  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=pathumjayasundara&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=FF6F00&currStreakLabel=00C2FF&sideLabels=FFFFFF&dates=888888"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=pathumjayasundara&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github"/>
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=pathumjayasundara&theme=radical&hide_border=true&background=000000&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
 </p>
 
 <p>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathumjayasundara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&langs_count=10"/>
-  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pathumjayasundara&theme=tokyonight&utcOffset=5.5"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathumjayasundara&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&langs_count=10"/>
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pathumjayasundara&theme=radical&utcOffset=5.5"/>
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pathumjayasundara&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pathumjayasundara&theme=radical" width="100%"/>
 </p>
 
-### 🏆 Trophy Cabinet
+### 🏆 Trophy Cabinet (Neon Edition)
 
-<img src="https://github-profile-trophy.vercel.app/?username=pathumjayasundara&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&row=2"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pathumjayasundara&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&row=2"/>
 
-### 📈 Contribution Activity Graph
+### 📈 Contribution Activity Graph (Cyberpunk)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pathumjayasundara&theme=tokyo-night&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pathumjayasundara&theme=react-dark&bg_color=000000&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline" width="100%"/>
 
-### 🐍 Snake Eating My Contributions
+### 🐍 Snake Eating My Contributions (Dark Mode)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pathumjayasundara/pathumjayasundara/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pathumjayasundara/pathumjayasundara/output/github-contribution-grid-snake.svg"/>
   <img alt="Snake animation" src="https://raw.githubusercontent.com/pathumjayasundara/pathumjayasundara/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+                                    METRICS DASHBOARD (ULTRA ADVANCED)
+     ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="32"/>  Advanced Metrics Dashboard
+
+<div align="center">
+
+<!-- ⚠️ මේක වැඩකරන්න ඔයා .github/workflows/metrics.yml file එක හදන්න ඕන (පහල තියෙනවා) -->
+<img src="https://raw.githubusercontent.com/pathumjayasundara/pathumjayasundara/main/github-metrics.svg" width="100%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+                                    WAKATIME & SPOTIFY (ADVANCED WIDGETS)
+     ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⏱️ Coding Stats & 🎧 Now Playing
+
+<!-- ⚠️ WakaTime වැඩකරන්න ඔයාගේ WakaTime username එක මේකට දාන්න -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=pathumjayasundara&theme=radical&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&layout=compact"/>
+
+<!-- ⚠️ Spotify වැඩකරන්න ඔයා Spotify account එකක් හදලා මේකට link කරන්න ඕන -->
+<a href="https://open.spotify.com/user/pathumjayasundara">
+  <img src="https://novatorem.vercel.app/api/spotify?background_color=000000&border_color=00FFFF" alt="Spotify Now Playing"/>
+</a>
 
 </div>
 
@@ -234,7 +279,7 @@ const pathum: Developer = {
 <div align="center">
 
 <a href="https://github.com/pathumjayasundara/project_mat-mini-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pathumjayasundara&repo=project_mat-mini-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pathumjayasundara&repo=project_mat-mini-project&theme=radical&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=FF00FF"/>
 </a>
 
 </div>
@@ -311,7 +356,7 @@ const pathum: Developer = {
 
 > **Production-grade brand website** for a Ceylon tea company.
 
-[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-FF5722?style=for-the-badge)](https://chic-lolly-b60572.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-FF00FF?style=for-the-badge)](https://chic-lolly-b60572.netlify.app/)
 
 🎬 Cinematic video backgrounds · 🎨 Custom SVG kettle animation · 🍃 Interactive leaf fields · 📱 Fully responsive
 
@@ -356,9 +401,9 @@ const pathum: Developer = {
 > ### 📄 Cultural Framing in AI-Generated Project Recovery Advice
 > **A Comparative Analysis of ChatGPT, DeepSeek, and Gemini Using Hofstede's Cultural Dimensions**
 
-[![PM World Journal](https://img.shields.io/badge/Published%20in-PM%20World%20Journal-0052CC?style=for-the-badge&logo=bookstack&logoColor=white)](https://pmworldlibrary.net/)
-![Date](https://img.shields.io/badge/Published-June%202026-00C2FF?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Type](https://img.shields.io/badge/Type-Peer%20Research-FF6F00?style=for-the-badge&logo=academia&logoColor=white)
+[![PM World Journal](https://img.shields.io/badge/Published%20in-PM%20World%20Journal-0052CC?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=000000)](https://pmworldlibrary.net/)
+![Date](https://img.shields.io/badge/Published-June%202026-00FFFF?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=000000)
+![Type](https://img.shields.io/badge/Type-Peer%20Research-FF00FF?style=for-the-badge&logo=academia&logoColor=white&labelColor=000000)
 
 </div>
 
@@ -378,9 +423,9 @@ This research examines cultural patterns in AI-generated project recovery advice
 ### 🎯 Project Management & Agile
 ![SFC](https://img.shields.io/badge/Scrum%20Fundamentals%20Certified-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile%20Project%20Management-FF6F00?style=flat-square&logo=agile&logoColor=white)
-![AI PM](https://img.shields.io/badge/AI--Powered%20Project%20Management-00C2FF?style=flat-square&logo=openai&logoColor=white)
+![AI PM](https://img.shields.io/badge/AI--Powered%20Project%20Management-00FFFF?style=flat-square&logo=openai&logoColor=black)
 ![Program](https://img.shields.io/badge/Diploma%20in%20Program%20Management-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Digital](https://img.shields.io/badge/Diploma%20in%20Digital%20Products-FF5722?style=flat-square&logo=producthunt&logoColor=white)
+![Digital](https://img.shields.io/badge/Diploma%20in%20Digital%20Products-FF00FF?style=flat-square&logo=producthunt&logoColor=white)
 ![Risk](https://img.shields.io/badge/Risk%20Management-D32F2F?style=flat-square&logo=shieldsdotio&logoColor=white)
 
 ### 🤖 AI & Machine Learning
@@ -388,7 +433,7 @@ This research examines cultural patterns in AI-generated project recovery advice
 ![DeepSeek](https://img.shields.io/badge/DeepSeek%20AI-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
 ![CV](https://img.shields.io/badge/Computer%20Vision%20Fundamentals-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![AI4B](https://img.shields.io/badge/AI%20for%20Beginners-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Critical](https://img.shields.io/badge/Critical%20Thinking%20in%20AI%20Era-00C2FF?style=flat-square&logo=openai&logoColor=white)
+![Critical](https://img.shields.io/badge/Critical%20Thinking%20in%20AI%20Era-00FFFF?style=flat-square&logo=openai&logoColor=black)
 
 ### 💻 Software Development
 ![C#](https://img.shields.io/badge/C%23%20Mastering-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -417,19 +462,19 @@ This research examines cultural patterns in AI-generated project recovery advice
 <table>
 <tr>
 <td align="center" width="33%">
-  <img src="https://img.shields.io/badge/🦁%20LEO%20CLUB-FFD700?style=for-the-badge&labelColor=0D1117"/><br/><br/>
+  <img src="https://img.shields.io/badge/🦁%20LEO%20CLUB-FFD700?style=for-the-badge&labelColor=000000"/><br/><br/>
   <b>Faculty Coordinator</b><br/>
   <sub>Leo Club of SUSL</sub><br/>
   <sub>Jul 2026 – Present</sub>
 </td>
 <td align="center" width="33%">
-  <img src="https://img.shields.io/badge/🌍%20ROTARACT-00A4EF?style=for-the-badge&labelColor=0D1117"/><br/><br/>
+  <img src="https://img.shields.io/badge/🌍%20ROTARACT-00A4EF?style=for-the-badge&labelColor=000000"/><br/><br/>
   <b>Faculty Coordinator</b><br/>
   <sub>Rotaract Club of SUSL</sub><br/>
   <sub>Jul 2026 – Present</sub>
 </td>
 <td align="center" width="33%">
-  <img src="https://img.shields.io/badge/🎓%20APSURS%202025-00C2FF?style=for-the-badge&labelColor=0D1117"/><br/><br/>
+  <img src="https://img.shields.io/badge/🎓%20APSURS%202025-00FFFF?style=for-the-badge&labelColor=000000"/><br/><br/>
   <b>Research Presenter</b><br/>
   <sub>Applied Sciences Research Symposium</sub><br/>
   <sub>Aug 2025</sub>
@@ -492,13 +537,13 @@ graph LR
     E --> F[🚀 Digital Product Leader]
     F --> G[🌍 Global Impact]
 
-    style A fill:#0F2027,stroke:#00C2FF,color:#fff,stroke-width:2px
-    style B fill:#203A43,stroke:#00C2FF,color:#fff,stroke-width:2px
-    style C fill:#2C5364,stroke:#00C2FF,color:#fff,stroke-width:2px
-    style D fill:#FF6F00,stroke:#00C2FF,color:#fff,stroke-width:2px
-    style E fill:#0052CC,stroke:#00C2FF,color:#fff,stroke-width:2px
-    style F fill:#6DB33F,stroke:#00C2FF,color:#fff,stroke-width:2px
-    style G fill:#00C2FF,stroke:#00C2FF,color:#000,stroke-width:2px
+    style A fill:#000000,stroke:#00FFFF,color:#00FFFF,stroke-width:2px
+    style B fill:#000000,stroke:#FF00FF,color:#FF00FF,stroke-width:2px
+    style C fill:#000000,stroke:#00FFFF,color:#00FFFF,stroke-width:2px
+    style D fill:#000000,stroke:#FF00FF,color:#FF00FF,stroke-width:2px
+    style E fill:#000000,stroke:#00FFFF,color:#00FFFF,stroke-width:2px
+    style F fill:#000000,stroke:#FF00FF,color:#FF00FF,stroke-width:2px
+    style G fill:#000000,stroke:#00FFFF,color:#00FFFF,stroke-width:2px
 ```
 
 ---
@@ -512,12 +557,12 @@ graph LR
 <div align="center">
 
 ### 💭 Dev Quote of the Day
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 <br/>
 
 ### 😂 Random Dev Joke
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder"/>
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder"/>
 
 <br/>
 
@@ -539,10 +584,10 @@ graph LR
 **I'm actively looking for internships and project opportunities in:**
 
 <p>
-  <img src="https://img.shields.io/badge/IT%20Project%20Management-00C2FF?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Agile%20/%20Scrum-6DB33F?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Digital%20Product-FF5722?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/AI--Enhanced%20PM-8E75B2?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/IT%20Project%20Management-00FFFF?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Agile%20/%20Scrum-6DB33F?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Digital%20Product-FF00FF?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/AI--Enhanced%20PM-8E75B2?style=for-the-badge&labelColor=000000"/>
 </p>
 
 If you're working on exciting projects at the intersection of **tech, product, and AI** — I'd love to connect!
@@ -550,13 +595,13 @@ If you're working on exciting projects at the intersection of **tech, product, a
 <br/>
 
 <a href="https://www.linkedin.com/in/pathum-jayasundara-66a636345">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="45"/>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="45"/>
 </a>
 <a href="https://pathum04.github.io/pathumjayasundara/">
-  <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" height="45"/>
+  <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF00FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" height="45"/>
 </a>
 <a href="mailto:pathumjayasundara04@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="45"/>
+  <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="45"/>
 </a>
 
 <br/><br/>
@@ -565,6 +610,11 @@ If you're working on exciting projects at the intersection of **tech, product, a
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+<!-- Animated Footer Wave (Neon Cyan on Black) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FFFF,100:000000&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=00FFFF&animation=twinkling&fontAlignY=65"/>
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     Made with ❤️ by Pathum Jayasundara
+     ═══════════════════════════════════════════════════════════════════════════════ -->
