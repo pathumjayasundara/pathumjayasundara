@@ -10,32 +10,32 @@
 
 <div align="center">
 
-<!-- ═══════════════════════ ANIMATED HERO HEADER (PURE BLACK & NEON CYAN) ═══════════════════════ -->
+<!-- ═══════════════════════ ANIMATED HERO HEADER (PURE BLACK + NEON CYAN) ═══════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FFFF,100:000000&height=250&section=header&text=Pathum%20Jayasundara&fontSize=70&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=IT%20Project%20Manager%20%E2%80%A2%20Agile%20%26%20Scrum%20%E2%80%A2%20AI-Powered%20PM&descAlignY=55&descSize=18&descColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FFFF,100:000000&height=280&section=header&text=Pathum%20Jayasundara&fontSize=75&fontColor=00FFFF&animation=fadeIn&fontAlignY=32&desc=⚡%20IT%20Project%20Manager%20%E2%80%A2%20Agile%20%26%20Scrum%20%E2%80%A2%20AI-Powered%20PM%20⚡&descAlignY=55&descSize=20&descColor=FFFFFF"/>
 
-<!-- ═══════════════════════ ANIMATED TYPING BANNER (NEON CYAN) ═══════════════════════ -->
+<!-- ═══════════════════════ ANIMATED TYPING BANNER ═══════════════════════ -->
 
 <a href="https://github.com/pathumjayasundara">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%F0%9F%8E%93+Computer+Science+Undergraduate+%7C+3rd+Year;%F0%9F%9A%80+Aspiring+IT+Project+Manager;%F0%9F%94%84+Agile+%26+Scrum+Enthusiast;%F0%9F%A4%96+AI-Powered+Project+Management;%F0%9F%92%A1+Digital+Product+Leader+in+the+Making" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=%F0%9F%8E%93+Computer+Science+Undergraduate+%7C+3rd+Year;%F0%9F%9A%80+Aspiring+IT+Project+Manager;%F0%9F%94%84+Agile+%26+Scrum+Enthusiast;%F0%9F%A4%96+AI-Powered+Project+Management;%F0%9F%92%A1+Digital+Product+Leader+in+the+Making" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<!-- ═══════════════════════ LIVE BADGE MATRIX (DARK THEME) ═══════════════════════ -->
+<!-- ═══════════════════════ LIVE BADGE MATRIX ═══════════════════════ -->
 
 <img src="https://komarev.com/ghpvc/?username=pathumjayasundara&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/pathumjayasundara?label=FOLLOWERS&style=for-the-badge&color=00FFFF&labelColor=000000&logo=github"/> <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-00FF00?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/SRI%20LANKA-🇱🇰-FF00FF?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-8E75B2?style=for-the-badge&labelColor=000000"/>
 
 <br/><br/>
 
-<!-- ═══════════════════════ SOCIAL CONNECT (DARK THEME) ═══════════════════════ -->
+<!-- ═══════════════════════ SOCIAL CONNECT ═══════════════════════ -->
 
 <a href="https://www.linkedin.com/in/pathum-jayasundara-66a636345" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
 </a> <a href="https://pathum04.github.io/pathumjayasundara/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000"/>
 </a> <a href="https://github.com/pathumjayasundara" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000"/>
 </a> <a href="mailto:pathumjayasundara04@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
 </a>
@@ -149,7 +149,31 @@ const pathum: Developer = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════
-                                    GITHUB ANALYTICS (PURE BLACK + NEON)
+                              CODING PROFILE STATS (ADVANCED)
+     ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🏅 Coding Profile Stats
+
+<a href="https://www.hackerrank.com/pathumjayasundara">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=000000"/>
+</a> <a href="https://leetcode.com/pathumjayasundara">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000"/>
+</a> <a href="https://www.codewars.com/users/pathumjayasundara">
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=000000"/>
+</a> <a href="https://stackoverflow.com/users/pathumjayasundara">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=000000"/>
+</a> <a href="https://dev.to/pathumjayasundara">
+  <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=000000"/>
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+                                    GITHUB ANALYTICS
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -170,56 +194,22 @@ const pathum: Developer = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pathumjayasundara&theme=radical" width="100%"/>
 </p>
 
-### 🏆 Trophy Cabinet (Neon Edition)
+### 🏆 Trophy Cabinet
 
 <img src="https://github-profile-trophy.vercel.app/?username=pathumjayasundara&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&row=2"/>
 
-### 📈 Contribution Activity Graph (Cyberpunk)
+### 📈 Contribution Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pathumjayasundara&theme=react-dark&bg_color=000000&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline" width="100%"/>
 
-### 🐍 Snake Eating My Contributions (Dark Mode)
+### 🔥 Daily Contribution Chart (No Workflow Needed!)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pathumjayasundara/pathumjayasundara/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pathumjayasundara/pathumjayasundara/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/pathumjayasundara/pathumjayasundara/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://ghchart.rshah.org/00FFFF/pathumjayasundara" alt="Pathum's GitHub Contributions" width="100%"/>
 
-</div>
+### 📊 Contribution Summary
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-                                    METRICS DASHBOARD (ULTRA ADVANCED)
-     ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="32"/>  Advanced Metrics Dashboard
-
-<div align="center">
-
-<!-- ⚠️ මේක වැඩකරන්න ඔයා .github/workflows/metrics.yml file එක හදන්න ඕන (පහල තියෙනවා) -->
-<img src="https://raw.githubusercontent.com/pathumjayasundara/pathumjayasundara/main/github-metrics.svg" width="100%"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-                                    WAKATIME & SPOTIFY (ADVANCED WIDGETS)
-     ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ⏱️ Coding Stats & 🎧 Now Playing
-
-<!-- ⚠️ WakaTime වැඩකරන්න ඔයාගේ WakaTime username එක මේකට දාන්න -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=pathumjayasundara&theme=radical&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&layout=compact"/>
-
-<!-- ⚠️ Spotify වැඩකරන්න ඔයා Spotify account එකක් හදලා මේකට link කරන්න ඕන -->
-<a href="https://open.spotify.com/user/pathumjayasundara">
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=000000&border_color=00FFFF" alt="Spotify Now Playing"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pathumjayasundara&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pathumjayasundara&theme=radical" />
 
 </div>
 
@@ -563,6 +553,11 @@ graph LR
 
 ### 😂 Random Dev Joke
 <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder"/>
+
+<br/>
+
+### 🎵 Spotify Now Playing
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=000000&border_color=00FFFF)](https://open.spotify.com/user/pathumjayasundara)
 
 <br/>
 
